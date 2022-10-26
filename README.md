@@ -6,7 +6,7 @@ Currently:
 
 | Version  | Ref | Release Date |
 |---|---|---|
-| 2.0.1 | c5a4b40 | 04.03.2021 |
+| 3.3.5 | d9111f6 | 20.10.2022 |
 
 ## Releases
 
